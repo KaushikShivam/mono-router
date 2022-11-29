@@ -1,0 +1,15 @@
+const movieOne = {
+  title: 'Movie one',
+  description: 'A greate movie',
+  thumbnail: 'www.thumbnail.com',
+  watchUrl: 'www.netflix.com',
+  category: 'Fantasy',
+  countryOfOrigin: 'India',
+  director: 'Director',
+  duration: 200,
+  rating: 4.5,
+};
+
+module.exports = {
+  movieOne,
+};
